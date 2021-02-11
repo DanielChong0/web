@@ -1,27 +1,28 @@
-body {
-  background-color: red;
+body {background-color: red;
 }
-h1 {
-  color: blue;
+h1 {color: blue;
 }
-hi {
-	font: sans-serif;
+hi {font: sans-serif;
 }
-h4 {
-	color: #ff77ff;
+h4 {color: #ff77ff;
 }
 
 
-body {
-  background-color: red;
+body {background-color: red;
 }
-h1 {
-  color: blue;
+h1 {color: blue;
 }
-hi {
-	font: sans-serif;
+hi {font: sans-serif;
 }
-h4 {
-	color: #ff77ff;
+h4 {color: #ff77ff;
+}
+h3 {border: 0.5rem outset pink;
+  outline: 0.5rem solid khaki;
+  box-shadow: 0 0 0 2rem skyblue;
+  border-radius: 12px;
+  font: bold 1rem sans-serif;
+  margin: 2rem;
+  padding: 1rem;
+	outline-offset: 0.5rem;
 }
 
