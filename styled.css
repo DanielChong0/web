@@ -16,3 +16,12 @@ h3 {border: 0.5rem outset pink;
 	outline-offset: 0.5rem;
 }
 
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
