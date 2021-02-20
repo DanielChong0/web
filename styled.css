@@ -1,14 +1,14 @@
-body {background-color: green;
+body {background-color: #5b1b96;
 }
 h1 {color: blue;
 }
 hi {font: comic-sans;
 }
-h4 {color: #5b1b96;
+h4 {color: #ffffff;
 }
 h3 {border: 0.5rem outset pink;
-  outline: 0.5rem solid khaki;
-  box-shadow: 0 0 0 2rem skyblue;
+  outline: 0.5rem solid #826491;
+  box-shadow: 0 0 0 2rem #abcabc;
   border-radius: 12px;
   font: bold 1rem sans-serif;
   margin: 2rem;
