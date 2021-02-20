@@ -15,6 +15,9 @@ h3 {border: 0.5rem outset pink;
   padding: 1rem;
 	outline-offset: 0.5rem;
 }
+pre {color: #2a6592;
+	font-family:garamond ;
+}
 ul {
   list-style-type: none;
   margin: 0;
