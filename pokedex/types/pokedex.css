@@ -1,0 +1,44 @@
+body {background-color: #5b1b96;
+}
+h1 {color: blue;
+}
+hi {font: comic-sans;
+}
+h4 {color: #ffffff;
+}
+h3 {border: 0.5rem outset pink;
+  outline: 0.5rem solid #826491;
+  box-shadow: 0 0 0 2rem #abcabc;
+  border-radius: 12px;
+  font: bold 1rem sans-serif;
+  margin: 2rem;
+  padding: 1rem;
+	outline-offset: 0.5rem;
+}
+pre {color: #2a6592;
+	font-family:garamond ;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: #111;
+}
