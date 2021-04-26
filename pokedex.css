@@ -3,7 +3,7 @@ body {background-color: #fec89a;
 h1 {color: #ffd60a;
 }
 p    {color: #e63946;}
-
+table{border="1px"}
 nav li {
    display: inline-block;
    position: relative;
