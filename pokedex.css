@@ -1,4 +1,8 @@
-
+body {background-color: #fec89a;
+}
+h1 {color: #ffd60a;
+}
+p    {color: #e63946;}
 
 nav li {
    display: inline-block;
