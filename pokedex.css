@@ -3,7 +3,9 @@ body {background-color: #fec89a;
 h1 {color: #ffd60a;
 }
 p    {color: #e63946;}
-table{border="1px"}
+table, th, td {
+  border: 1px solid black;
+}
 nav li {
    display: inline-block;
    position: relative;
